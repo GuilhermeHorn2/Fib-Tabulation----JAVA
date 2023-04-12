@@ -11,15 +11,15 @@ public class main_misc {
 	   
 		
 	
-		System.out.println(fib(7));
+		System.out.println(fib(50));
 		
 	}
 	
-	private static int fib(int n) {
+	private static long fib(int n) {
 		
 		
 		
-		int[] tab = new int[n+1];
+		long[] tab = new long[n+1];
 		
 		for(int i = 0;i < tab.length;i++) {
 			if(i == 0) {
@@ -44,6 +44,28 @@ public class main_misc {
 	
 	
 	
+	
+	
+	
+
+	
+
+
+	
+	
+
+	
+		
+	
+	
+
+
+	
+
+	
+	
+
+
 	
 	
 	
